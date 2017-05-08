@@ -6,5 +6,7 @@ I will start with Python and my co-author can work on R.
 
 ##### Fundamentals of Programming
 If else statements
+
 While loops
+
 Functions 
