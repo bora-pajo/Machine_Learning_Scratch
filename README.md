@@ -9,6 +9,8 @@ If else statements
 
 So for example, we have an _if_ followed by some form of condition.  If the condition is true, then the block is executed and after that the return.  _if_ the condition is not true, the block is not executed and it goes immediately to the return.
 
+1. If conditions
+
 If [some form of expression]:
   [block]
   return [something]
@@ -16,6 +18,10 @@ If [some form of expression]:
 
   
 
-While loops
+2. While loops
+
+while (some condition):
+  some action
+
 
 Functions 
