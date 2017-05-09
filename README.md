@@ -23,5 +23,6 @@ If [some form of expression]:
 while (some condition):
   some action
 
+While loops are used to perform some form of action while (during the time) that the condition is true.  If the condition becomes 0 or false, the line immediately following the loop is executed.
 
 Functions 
