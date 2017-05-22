@@ -5,6 +5,8 @@ The very starting point is some basic logical information on the two of the wide
 I will start with Python and my co-author can work on R. 
 
 
+
+
 ##### Fundamentals of Programming
 If else statements
 
@@ -30,3 +32,5 @@ while (some condition):
 While loops are used to perform some form of action while (during the time) that the condition is true.  If the condition becomes 0 or false, the line immediately following the loop is executed.
 
 Functions 
+
+
